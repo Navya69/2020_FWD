@@ -46,7 +46,7 @@ let r5=document.getElementById("row5");
 
     {
 
-        document.getElementById("ro3").innerHTML="please enetr valid password";
+        document.getElementById("ro3").innerHTML="please enter valid password";
 
     }
 
